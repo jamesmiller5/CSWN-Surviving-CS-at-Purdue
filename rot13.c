@@ -5,7 +5,7 @@
 #define debug(...) fprintf (stderr, __VA_ARGS__)
 
 //For turning in
-//#define deubg(...)
+//#define debug(...)
 
 int main( int argc, char ** argv ) {
 	char c;
